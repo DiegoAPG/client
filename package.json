@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/workco/lance-rest-client.git"
+    "url": "https://github.com/github.com/DiegoAPG/client.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/workco/lance-rest-client/issues"
+    "url": "https://github.com/github.com/DiegoAPG/client/issues"
   },
-  "homepage": "https://github.com/workco/lance-rest-client",
+  "homepage": "https://github.com/github.com/DiegoAPG/client",
   "devDependencies": {
     "drakonian": "^1.0.0",
     "jung": "^2.0.2",
