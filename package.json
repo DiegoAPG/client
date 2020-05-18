@@ -1,5 +1,5 @@
 {
-  "name": "@diegoarm_pg/am-client",
+  "name": "amclient",
   "version": "2.1.18",
   "description": "",
   "main": "index.js",
@@ -36,6 +36,6 @@
     "xtend": "^4.0.0"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/DiegoAPG"
   }
 }
