@@ -1,0 +1,38 @@
+{
+  "name": "lance-rest-client",
+  "version": "2.1.18",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js",
+    "watch": "jung -D node_modules -- npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/workco/lance-rest-client.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/workco/lance-rest-client/issues"
+  },
+  "homepage": "https://github.com/workco/lance-rest-client",
+  "devDependencies": {
+    "drakonian": "^1.0.0",
+    "jung": "^2.0.2",
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "clone": "^1.0.2",
+    "dotty": "0.0.2",
+    "inherits": "^2.0.1",
+    "isomorphic-fetch": "^2.0.2",
+    "es6-promise": "^2.1.0",
+    "lodash": "^3.8.0",
+    "string-template": "^0.2.0",
+    "xtend": "^4.0.0"
+  }
+}
