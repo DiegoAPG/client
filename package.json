@@ -1,5 +1,5 @@
 {
-  "name": "amclient_rest_ui",
+  "name": "@diegoapg/amclient_rest_ui",
   "version": "2.1.18",
   "description": "",
   "main": "index.js",
