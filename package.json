@@ -35,7 +35,5 @@
     "string-template": "^0.2.0",
     "xtend": "^4.0.0"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/DiegoAPG"
-  }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
